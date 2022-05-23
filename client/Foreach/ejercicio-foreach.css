@@ -1,0 +1,24 @@
+header {
+    width: 100%;
+    text-align: center;
+    font-family: cursive;
+    letter-spacing: 5px;
+    border: 1px solid black;
+    margin: 20px;
+    box-shadow: 2px 2px;
+    background-color: cadetblue;
+    color: aliceblue;
+}
+div#app {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    place-items: center;
+    border: 2px inset;
+    margin: 20px;
+    padding: 20px;
+    font-family: fantasy;
+    font-size: 20px;
+    font-weight: 700;
+    background-color: cadetblue;
+}
